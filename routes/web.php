@@ -13,6 +13,6 @@
 
 Route::get('/', 'StaticPagesController@home');
 
-Route::get('/help', 'StaicPagesController@help');
+Route::get('/help', 'StaticPagesController@help');
 
-Route::get('/about', 'StaicPagesController@about');
+Route::get('/about', 'StaticPagesController@about');
